@@ -1,0 +1,8 @@
+*.orig
+*.log
+npm-debug.log*
+node_modules
+/dist
+/packages/*/dist
+.DS_Store
+.vscode
